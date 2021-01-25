@@ -6,7 +6,7 @@ This is a project scaffold for Python
 
 1. Create virtualenv
 ```
-python3 -m venv ~/.myrepo
+python3 -m venv ~/.myrepo (For gcp: virtualenv ~/.myrepo)
 source ~/.myrepo/bin/activate
 ```
 2. Create scaffolding
